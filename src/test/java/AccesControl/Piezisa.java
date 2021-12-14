@@ -1,0 +1,12 @@
+package AccesControl;
+
+import Protected.Voluntar;
+
+public class Piezisa extends Voluntar {
+    public Piezisa(String nume, String prenume) {
+        super(nume, prenume);
+    }
+    public void metodaHabarNam(){
+        meto
+    }
+}
